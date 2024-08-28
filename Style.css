@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(to up red yellow);
+    background: linear-gradient(to up, red, yellow);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -19,7 +19,7 @@ p{
     border-color: black;
     border-width: 2px;
     border-radius: 13px;
-    background: linear-gradient(to left white grey);
+    background: linear-gradient(to left, white, grey);
     padding: 8px;
     
 }
