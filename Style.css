@@ -1,10 +1,10 @@
 body{
-    background: linear-gradient(rgb(110, 0, 0), rgb(255, 255, 159));
+    background: linear-gradient(green, purple);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
 .Konstatering{
-    background-color: rgb(237, 60, 24);
+    background-color: skyblue;
 }
 .listen{
     text-decoration: underline;
@@ -19,7 +19,7 @@ p{
     border-color: black;
     border-width: 2px;
     border-radius: 13px;
-    background: linear-gradient(to right, white, grey);
+    background: linear-gradient(to right, white, black);
     padding: 8px;
     
 }
