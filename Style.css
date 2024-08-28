@@ -11,9 +11,11 @@ body{
 
 }
 p{
-    border-style: double;
+    border-style: dashed;
+    border-left-style: double;
+    border-right-style: double;
     border-color: black;
-    border-width: 2cm;
-    border-left-color: rgb(104, 55, 22);
-    border-right-color: rgb(104, 55, 22);
+    border-width: 2px;
+    border-radius: 13px;
+    
 }
