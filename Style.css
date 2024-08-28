@@ -12,5 +12,8 @@ body{
 }
 p{
     border-style: double;
-    border-color: coral;
+    border-color: black;
+    border-width: 2cm;
+    border-left-color: rgb(104, 55, 22);
+    border-right-color: rgb(104, 55, 22);
 }
