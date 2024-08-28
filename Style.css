@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(to up rgb(255, 55, 0) rgb(255, 230, 0)orange);
+    background: linear-gradient(to up red yellow);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
