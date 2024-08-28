@@ -1,6 +1,16 @@
 body{
     background-color: rgb(104, 55, 22)
 }
-.Toptext{
+.Konstatering{
     background-color: rgb(237, 60, 24);
+}
+.listen{
+    text-decoration: underline;
+    text-decoration: double;
+    color: rgb(33, 10, 0);
+
+}
+p{
+    border-style: double;
+    border-color: coral;
 }
