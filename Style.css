@@ -13,7 +13,7 @@ body{
 
 }
 p{
-    border-style: dashed;
+    border-style: solid;
     border-left-style: double;
     border-right-style: double;
     border-color: black;
