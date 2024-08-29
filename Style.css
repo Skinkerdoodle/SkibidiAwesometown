@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(green, purple);
+    background: radial-gradient(lime,green,rgb(41, 112, 78),violet);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
