@@ -1,17 +1,10 @@
 body{
-    background: radial-gradient(lime,green,rgb(41, 112, 78),rgb(94, 0, 94));
+    background-color: rgb(62, 62, 148);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
-.Konstatering{
-    background-color: rgb(217, 255, 0);
-}
-.listen{
-    text-decoration: underline;
-    text-decoration: double;
-    color: rgb(33, 10, 0);
 
-}
+
 p{
     border-style: solid;
     border-left-style: double;
